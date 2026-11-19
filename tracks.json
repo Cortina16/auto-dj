@@ -1,0 +1,653 @@
+[
+  {
+    "title": "Element",
+    "artist": "Pop Smoke",
+    "duration": 135746,
+    "isrc": "USUM72002041",
+    "track_id": "57BGVV6wcyhbn3hsjlqEZB"
+  },
+  {
+    "title": "SAD!",
+    "artist": "XXXTENTACION",
+    "duration": 166605,
+    "isrc": "USUG11800208",
+    "track_id": "3ee8Jmje8o58CHK66QrVC2"
+  },
+  {
+    "title": "Surround Sound (feat. 21 Savage & Baby Tate)",
+    "artist": "JID, 21 Savage, Baby Tate",
+    "duration": 229938,
+    "isrc": "USUM72123571",
+    "track_id": "1udwFobQ1JoOdWPQrp2b6u"
+  },
+  {
+    "title": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+    "artist": "Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne",
+    "duration": 255915,
+    "isrc": "USQX92405790",
+    "track_id": "3tFed7YsjGnIfxeLEQwx3R"
+  },
+  {
+    "title": "Havoc",
+    "artist": "Rich Amiri, Slump6s",
+    "duration": 176796,
+    "isrc": "QZJ842001673",
+    "track_id": "79nL8MEfX1OM7b79J6U70Q"
+  },
+  {
+    "title": "Runaway",
+    "artist": "Kanye West, Pusha T",
+    "duration": 547733,
+    "isrc": "USUM71027402",
+    "track_id": "3DK6m7It6Pw857FcQftMds"
+  },
+  {
+    "title": "Too Many Nights (feat. Don Toliver & with Future)",
+    "artist": "Metro Boomin, Future, Don Toliver",
+    "duration": 199920,
+    "isrc": "USUG12208784",
+    "track_id": "2Hh3ETdQKrmSI3QS0hme7g"
+  },
+  {
+    "title": "Flashing Lights",
+    "artist": "Kanye West, Dwele",
+    "duration": 237506,
+    "isrc": "USUM70749095",
+    "track_id": "5TRPicyLGbAF2LGBFbHGvO"
+  },
+  {
+    "title": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+    "artist": "The Weeknd, Playboi Carti, Madonna",
+    "duration": 215466,
+    "isrc": "USUG12303876",
+    "track_id": "6WzRpISELf3YglGAh7TXcG"
+  },
+  {
+    "title": "She Knows (feat. Amber Coffman & Cults)",
+    "artist": "J. Cole, Cults, Amber Coffman",
+    "duration": 296520,
+    "isrc": "USQX91301184",
+    "track_id": "0Fs9cdPDhptWEDJmiCbkEW"
+  },
+  {
+    "title": "Timeless (feat. Playboi Carti)",
+    "artist": "The Weeknd, Playboi Carti",
+    "duration": 256000,
+    "isrc": "USUG12406536",
+    "track_id": "1Es7AUAhQvapIcoh3qMKDL"
+  },
+  {
+    "title": "Levels",
+    "artist": "BigXthaPlug",
+    "duration": 157377,
+    "isrc": "QZL382302273",
+    "track_id": "6vOeokRJNZjouabFGDLH1C"
+  },
+  {
+    "title": "Hold This",
+    "artist": "HStikkytokky, J Fado, DMC",
+    "duration": 145920,
+    "isrc": "QM6N22266016",
+    "track_id": "1FxSStcuz43FhiB5KAFWc0"
+  },
+  {
+    "title": "Moonlight",
+    "artist": "XXXTENTACION",
+    "duration": 135090,
+    "isrc": "USUG11800209",
+    "track_id": "0JP9xo3adEtGSdUEISiszL"
+  },
+  {
+    "title": "Whip It",
+    "artist": "BigXthaPlug",
+    "duration": 137716,
+    "isrc": "QZMWW2341768",
+    "track_id": "1YA4Jn5uE82zSUUW17hnsP"
+  },
+  {
+    "title": "euphoria",
+    "artist": "Kendrick Lamar",
+    "duration": 383639,
+    "isrc": "USUG12402839",
+    "track_id": "77DRzu7ERs0TX3roZcre7Q"
+  },
+  {
+    "title": "BUTTERFLY EFFECT",
+    "artist": "Travis Scott",
+    "duration": 190557,
+    "isrc": "USSM11704799",
+    "track_id": "2cYqizR4lgvp4Qu6IQ3qGN"
+  },
+  {
+    "title": "Texas",
+    "artist": "BigXthaPlug",
+    "duration": 146133,
+    "isrc": "QZNMY2226814",
+    "track_id": "7j7ud2oFTJ8BjmeI8bjkQm"
+  },
+  {
+    "title": "PISTOL PACCIN",
+    "artist": "NLE Choppa, BigXthaPlug",
+    "duration": 149449,
+    "isrc": "USWB12306484",
+    "track_id": "3ScMs95OaNlkrZuRe7gyYa"
+  },
+  {
+    "title": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+    "artist": "Drake, Sexyy Red, SZA",
+    "duration": 319191,
+    "isrc": "USUG12306085",
+    "track_id": "1yeB8MUNeLo9Ek1UEpsyz6"
+  },
+  {
+    "title": "FE!N (feat. Playboi Carti)",
+    "artist": "Travis Scott, Playboi Carti",
+    "duration": 191700,
+    "isrc": "USSM12305010",
+    "track_id": "42VsgItocQwOQC3XWZ8JNA"
+  },
+  {
+    "title": "CARNIVAL",
+    "artist": "¥$, Kanye West, Ty Dolla $ign, Rich The Kid, Playboi Carti",
+    "duration": 264324,
+    "isrc": "QZ7XS2400012",
+    "track_id": "3w0w2T288dec0mgeZZqoNN"
+  },
+  {
+    "title": "Mask Off",
+    "artist": "Future",
+    "duration": 204600,
+    "isrc": "USSM11701444",
+    "track_id": "0VgkVdmE4gld66l8iyGjgx"
+  },
+  {
+    "title": "Just Wanna Rock",
+    "artist": "Lil Uzi Vert",
+    "duration": 123890,
+    "isrc": "USAT22219211",
+    "track_id": "4FyesJzVpA39hbYvcseO2d"
+  },
+  {
+    "title": "POWER",
+    "artist": "Kanye West",
+    "duration": 292093,
+    "isrc": "USUM71018220",
+    "track_id": "2gZUPNdnz5Y45eiGxpHGSc"
+  },
+  {
+    "title": "Forever",
+    "artist": "Drake, Kanye West, Lil Wayne, Eminem",
+    "duration": 357346,
+    "isrc": "USUM70985104",
+    "track_id": "6HSqyfGnsHYw9MmIpa9zlZ"
+  },
+  {
+    "title": "Like That",
+    "artist": "Future, Metro Boomin, Kendrick Lamar",
+    "duration": 267706,
+    "isrc": "USSM12402041",
+    "track_id": "2tudvzsrR56uom6smgOcSf"
+  },
+  {
+    "title": "Ric Flair Drip (with Metro Boomin)",
+    "artist": "Offset, Metro Boomin",
+    "duration": 172800,
+    "isrc": "QZ45A1700064",
+    "track_id": "7sO5G9EABYOXQKNPNiE9NR"
+  },
+  {
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "duration": 274192,
+    "isrc": "USUG12400910",
+    "track_id": "6AI3ezQ4o3HUoP6Dhudph3"
+  },
+  {
+    "title": "Father Stretch My Hands Pt. 1",
+    "artist": "Kanye West",
+    "duration": 135920,
+    "isrc": "USUM71603067",
+    "track_id": "4KW1lqgSr8TKrvBII0Brf8"
+  },
+  {
+    "title": "fukumean",
+    "artist": "Gunna",
+    "duration": 125040,
+    "isrc": "USAT22306575",
+    "track_id": "4rXLjWdF2ZZpXCVTfWcshS"
+  },
+  {
+    "title": "Homecoming",
+    "artist": "Lil Uzi Vert",
+    "duration": 213884,
+    "isrc": "USAT22001359",
+    "track_id": "6vxU64pcIuQ38O015Zy4qj"
+  },
+  {
+    "title": "Love Sosa",
+    "artist": "Chief Keef",
+    "duration": 246213,
+    "isrc": "USUM71214600",
+    "track_id": "01Lr5YepbgjXAWR9iOEyH1"
+  },
+  {
+    "title": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+    "artist": "Metro Boomin, Future, Chris Brown",
+    "duration": 182666,
+    "isrc": "USUG12208783",
+    "track_id": "0vjeOZ3Ft5jvAi9SBFJm1j"
+  },
+  {
+    "title": "Ransom",
+    "artist": "Lil Tecca",
+    "duration": 131240,
+    "isrc": "QZ85M1940160",
+    "track_id": "1lOe9qE0vR9zwWQAOk6CoO"
+  },
+  {
+    "title": "Flawlëss (feat. Lil Uzi Vert)",
+    "artist": "Yeat, Lil Uzi Vert",
+    "duration": 176124,
+    "isrc": "USUM72217061",
+    "track_id": "1a019wP7IdYLexwbmfZPm3"
+  },
+  {
+    "title": "Homecoming",
+    "artist": "Kanye West, Chris Martin",
+    "duration": 203493,
+    "isrc": "USUM70749093",
+    "track_id": "4iz9lGMjU1lXS51oPmUmTe"
+  },
+  {
+    "title": "Monster",
+    "artist": "Kanye West, JAŸ-Z, Rick Ross, Nicki Minaj, Bon Iver",
+    "duration": 378893,
+    "isrc": "USUM71026158",
+    "track_id": "1ZHYJ2Wwgxes4m8Ba88PeK"
+  },
+  {
+    "title": "Cardigan",
+    "artist": "Don Toliver",
+    "duration": 158708,
+    "isrc": "USAT22000786",
+    "track_id": "0Li1OuXXfi7950ilZUFGkF"
+  },
+  {
+    "title": "Private Landing (feat. Justin Bieber & Future)",
+    "artist": "Don Toliver, Justin Bieber, Future",
+    "duration": 238253,
+    "isrc": "USAT22301679",
+    "track_id": "52NGJPcLUzQq5w7uv4e5gf"
+  },
+  {
+    "title": "Chanel",
+    "artist": "Frank Ocean",
+    "duration": 210285,
+    "isrc": "QZ5C81600019",
+    "track_id": "6Nle9hKrkL1wQpwNfEkxjh"
+  },
+  {
+    "title": "One Dance",
+    "artist": "Drake, Wizkid, Kyla",
+    "duration": 173986,
+    "isrc": "USCM51600028",
+    "track_id": "1zi7xx7UVEFkmKfv06H8x0"
+  },
+  {
+    "title": "Passionfruit",
+    "artist": "Drake",
+    "duration": 298940,
+    "isrc": "USCM51700072",
+    "track_id": "5mCPDVBb16L4XQwDdbRUpz"
+  },
+  {
+    "title": "The Color Violet",
+    "artist": "Tory Lanez",
+    "duration": 226466,
+    "isrc": "QZTGW2100275",
+    "track_id": "3azJifCSqg9fRij2yKIbWz"
+  },
+  {
+    "title": "Starboy",
+    "artist": "The Weeknd, Daft Punk",
+    "duration": 230461,
+    "isrc": "USUG11600976",
+    "track_id": "38JOdzBE9kPj5UhKtqIIqQ"
+  },
+  {
+    "title": "Pray For Me",
+    "artist": "The Weeknd, Kendrick Lamar",
+    "duration": 211420,
+    "isrc": "USUM71800001",
+    "track_id": "6huNf4dutXRjJyGn7f5BPS"
+  },
+  {
+    "title": "The Hills",
+    "artist": "The Weeknd",
+    "duration": 242290,
+    "isrc": "USUG11500737",
+    "track_id": "33kxP9sQOzB3fRL8zl17uK"
+  },
+  {
+    "title": "Again (feat. XXXTENTACION)",
+    "artist": "Noah Cyrus, XXXTENTACION",
+    "duration": 193961,
+    "isrc": "QM33K1700076",
+    "track_id": "2S2od3hT7ceytw7d1pTRuE"
+  },
+  {
+    "title": "Lavender Sunflower",
+    "artist": "Tory Lanez",
+    "duration": 151966,
+    "isrc": "QZTGW2100276",
+    "track_id": "1au2UduxcvHfa0fZS3Szci"
+  },
+  {
+    "title": "The Recipe (Black Hippy Remix) - Bonus Track",
+    "artist": "Kendrick Lamar, Dr. Dre",
+    "duration": 262920,
+    "isrc": "USUM71211338",
+    "track_id": "5UHjWOJA6MDl1g3x2HC68V"
+  },
+  {
+    "title": "one of wun",
+    "artist": "Gunna",
+    "duration": 144000,
+    "isrc": "USAT22403437",
+    "track_id": "4Na2HfNSr58chvfX69fy36"
+  },
+  {
+    "title": "I Don't Like",
+    "artist": "Chief Keef, Lil Reese",
+    "duration": 293840,
+    "isrc": "USUM71207543",
+    "track_id": "1h6kgem1ai8vUgO1rZOwfB"
+  },
+  {
+    "title": "No Role Modelz",
+    "artist": "J. Cole",
+    "duration": 292799,
+    "isrc": "USQX91402598",
+    "track_id": "68Dni7IE4VyPkTOH9mRWHr"
+  },
+  {
+    "title": "We Still Don't Trust You",
+    "artist": "Future, Metro Boomin, The Weeknd",
+    "duration": 252920,
+    "isrc": "USSM12403111",
+    "track_id": "7sVbKoBdhXtYCEOO6qC1SN"
+  },
+  {
+    "title": "Chains & Whips",
+    "artist": "Clipse, Kendrick Lamar, Pharrell Williams, Pusha T, Malice",
+    "duration": 243906,
+    "isrc": "QZD442001485",
+    "track_id": "3znSvEwBq09We4cxxmwlZM"
+  },
+  {
+    "title": "Get Dangerous!",
+    "artist": "Frank Bentley, Anthony Mareo",
+    "duration": 149109,
+    "isrc": "IL6652204246",
+    "track_id": "3VB8jH7JEcg5FxCDxi6QT6"
+  },
+  {
+    "title": "Demeanor (feat. Dua Lipa)",
+    "artist": "Pop Smoke, Dua Lipa",
+    "duration": 184800,
+    "isrc": "USUM72112397",
+    "track_id": "3DMs7bahbQTnoxCjgP7qoK"
+  },
+  {
+    "title": "Nocturnal",
+    "artist": "Disclosure, The Weeknd",
+    "duration": 404511,
+    "isrc": "GBUM71503564",
+    "track_id": "2ZbqLzPVJxwJ5KPVXb3KaL"
+  },
+  {
+    "title": "Swimming Pools (Drank)",
+    "artist": "Kendrick Lamar",
+    "duration": 247800,
+    "isrc": "USUM71207642",
+    "track_id": "6REbwUNlppTfcnV4d4ZoZi"
+  },
+  {
+    "title": "Red Eye",
+    "artist": "Darci",
+    "duration": 161280,
+    "isrc": "QM24S2502309",
+    "track_id": "78szJXsl6RJ8mrZbGprarJ"
+  },
+  {
+    "title": "Low Life (feat. The Weeknd)",
+    "artist": "Future, The Weeknd",
+    "duration": 313546,
+    "isrc": "USSM11600557",
+    "track_id": "7EiZI6JVHllARrX9PUvAdX"
+  },
+  {
+    "title": "Welcome to the Rodeo",
+    "artist": "Lil Skies",
+    "duration": 169411,
+    "isrc": "USAT21705303",
+    "track_id": "5GpAhJpbHvUi6gY6RG15Ze"
+  },
+  {
+    "title": "Wish I Never Met You - Prison Tapes",
+    "artist": "Tory Lanez",
+    "duration": 224262,
+    "isrc": "QZJ842402111",
+    "track_id": "7MOjhqpSpGkeRyT4agpg12"
+  },
+  {
+    "title": "BROTHER STONE (FEAT. KODAK BLACK)",
+    "artist": "Don Toliver, Kodak Black",
+    "duration": 202840,
+    "isrc": "USAT22405208",
+    "track_id": "093MlZS93ZKlHpGkmb3k3W"
+  },
+  {
+    "title": "Space Cadet (feat. Gunna)",
+    "artist": "Metro Boomin, Gunna",
+    "duration": 203266,
+    "isrc": "USUG11802484",
+    "track_id": "1fewSx2d5KIZ04wsooEBOz"
+  },
+  {
+    "title": "Can't Feel Myself - Slowed & Reverb",
+    "artist": "dadanny",
+    "duration": 162336,
+    "isrc": "QZPEW2468022",
+    "track_id": "6lknkIiq2m0gFnMwpElKC7"
+  },
+  {
+    "title": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
+    "artist": "Metro Boomin, Coi Leray",
+    "duration": 189466,
+    "isrc": "USUM72308561",
+    "track_id": "0AAMnNeIc6CdnfNU85GwCH"
+  },
+  {
+    "title": "Location",
+    "artist": "Playboi Carti",
+    "duration": 168783,
+    "isrc": "USUM71616271",
+    "track_id": "3yk7PJnryiJ8mAPqsrujzf"
+  },
+  {
+    "title": "née-nah",
+    "artist": "21 Savage, Travis Scott, Metro Boomin",
+    "duration": 220584,
+    "isrc": "USSM12309168",
+    "track_id": "2yUzr8Sr6ldG8vmHhZwTnz"
+  },
+  {
+    "title": "After Hours",
+    "artist": "The Weeknd",
+    "duration": 361026,
+    "isrc": "USUG12000586",
+    "track_id": "2p8IUWQDrpjuFltbdgLOag"
+  },
+  {
+    "title": "Dead or Alive",
+    "artist": "Lil Tecca",
+    "duration": 122487,
+    "isrc": "USUM72312837",
+    "track_id": "5itTZ7kNRBl65Nn1QO9Ax9"
+  },
+  {
+    "title": "Solo",
+    "artist": "Future",
+    "duration": 265996,
+    "isrc": "USSM11701733",
+    "track_id": "4lH6nENd1y81jp7Yt9lTBX"
+  },
+  {
+    "title": "She Will",
+    "artist": "Lil Wayne, Drake",
+    "duration": 305840,
+    "isrc": "USCM51100309",
+    "track_id": "0b4M7hd7mzLTm99MrMeZsp"
+  },
+  {
+    "title": "Money Trees",
+    "artist": "Kendrick Lamar, Jay Rock",
+    "duration": 386906,
+    "isrc": "USUM71210785",
+    "track_id": "2HbKqm4o0w5wEeEFXm2sD4"
+  },
+  {
+    "title": "LIL DEMON",
+    "artist": "Future",
+    "duration": 139196,
+    "isrc": "USSM12406727",
+    "track_id": "3aCPResPDNae3pXTocGpYe"
+  },
+  {
+    "title": "HIGHEST IN THE ROOM",
+    "artist": "Travis Scott",
+    "duration": 175720,
+    "isrc": "USSM11904276",
+    "track_id": "3eekarcy7kvN4yt5ZFzltW"
+  },
+  {
+    "title": "ball w/o you",
+    "artist": "21 Savage",
+    "duration": 195046,
+    "isrc": "QZ45A1700093",
+    "track_id": "50a8bKqlwDEqeiEknrzkTO"
+  },
+  {
+    "title": "Runnin",
+    "artist": "21 Savage, Metro Boomin",
+    "duration": 195906,
+    "isrc": "USSM12005346",
+    "track_id": "5SWnsxjhdcEDc7LJjq9UHk"
+  },
+  {
+    "title": "20 Min",
+    "artist": "Lil Uzi Vert",
+    "duration": 220586,
+    "isrc": "USAT21704166",
+    "track_id": "0uxSUdBrJy9Un0EYoBowng"
+  },
+  {
+    "title": "a lot",
+    "artist": "21 Savage",
+    "duration": 288624,
+    "isrc": "QZ45A1700126",
+    "track_id": "2t8yVaLvJ0RenpXUIAC52d"
+  },
+  {
+    "title": "sdp interlude",
+    "artist": "Travis Scott",
+    "duration": 191622,
+    "isrc": "USSM11607552",
+    "track_id": "4gh0ZnHzaTMT1sDga7Ek0N"
+  },
+  {
+    "title": "Overdue (with Travis Scott)",
+    "artist": "Metro Boomin, Travis Scott",
+    "duration": 166093,
+    "isrc": "USUG11802479",
+    "track_id": "6LyAwkJsHlW7RQ8S1cYAtM"
+  },
+  {
+    "title": "500lbs",
+    "artist": "Lil Tecca",
+    "duration": 144390,
+    "isrc": "USUM72309854",
+    "track_id": "6rjuKpPydT2SxN15TZpV7r"
+  },
+  {
+    "title": "I KNOW ?",
+    "artist": "Travis Scott",
+    "duration": 211582,
+    "isrc": "USSM12305012",
+    "track_id": "6wsqVwoiVH2kde4k4KKAFU"
+  },
+  {
+    "title": "Love Me",
+    "artist": "Lil Wayne, Drake, Future",
+    "duration": 255053,
+    "isrc": "USCM51300001",
+    "track_id": "2XHzzp1j4IfTNp1FTn7YFg"
+  },
+  {
+    "title": "Sky",
+    "artist": "Playboi Carti",
+    "duration": 193234,
+    "isrc": "USUM72024699",
+    "track_id": "29TPjc8wxfz4XMn21O7VsZ"
+  },
+  {
+    "title": "MY EYES",
+    "artist": "Travis Scott",
+    "duration": 251249,
+    "isrc": "USSM12305007",
+    "track_id": "4kjI1gwQZRKNDkw1nI475M"
+  },
+  {
+    "title": "SAME OLD ME",
+    "artist": "Rich Amiri",
+    "duration": 158800,
+    "isrc": "QZJ842404156",
+    "track_id": "3MOiRopkW7q1yE2QC2BHi0"
+  },
+  {
+    "title": "Far Away (feat. A$AP Rocky)",
+    "artist": "Yebba, A$AP Rocky",
+    "duration": 199415,
+    "isrc": "USRC12002012",
+    "track_id": "14qNHvX8h6HoynFuV0RxWS"
+  },
+  {
+    "title": "R.I.P.",
+    "artist": "Playboi Carti",
+    "duration": 192026,
+    "isrc": "USUM71804150",
+    "track_id": "3L0IKstjUgDFVQAbQIRZRv"
+  },
+  {
+    "title": "FRIED",
+    "artist": "¥$, Kanye West, Ty Dolla $ign",
+    "duration": 166400,
+    "isrc": "TLVEM2467068",
+    "track_id": "4Qay2jEWJYjXmJ8eNOGtaD"
+  },
+  {
+    "title": "16",
+    "artist": "Baby Keem",
+    "duration": 156040,
+    "isrc": "USSM12106871",
+    "track_id": "1Is8hGpkGMiePASAxBluxM"
+  },
+  {
+    "title": "Wet Dreamz",
+    "artist": "J. Cole",
+    "duration": 239266,
+    "isrc": "USQX91402592",
+    "track_id": "4tqcoej1zPvwePZCzuAjJd"
+  }
+]
